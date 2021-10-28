@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scenes/landing.fire",orientation:"",jsList:["assets/Scripts/analytic/gta-amplitude.f658d.js"],bundleVers:{resources:"af19f",internal:"51cdd",main:"95070"}};
